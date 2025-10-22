@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# User Data
+downloads/
+shared_files/
+tmp_dumps/
+
+# Certificates and Keys (Sensitive!)
+certs/
+*.pem
+
+# Documents
+*.docx

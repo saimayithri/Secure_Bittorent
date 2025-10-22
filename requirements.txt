@@ -1,0 +1,10 @@
+# Core library for the web user interface (streamlit_app.py)
+streamlit
+
+# Core library for the API-enabled version of the peer
+# Flask is a lightweight web framework.
+Flask
+
+# Required for TLS/SSL certificate handling in vpn.py
+# Provides cryptographic recipes and primitives.
+cryptography
